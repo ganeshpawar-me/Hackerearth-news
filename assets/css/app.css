@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+}
+
+#header {
+    text-align: center;
+}
+
+#search-container {
+    text-align: center;
+}
+
+#news-container {
+  text-align: center;
+  margin-top: 50px;
+  border: 2px solid black;
+}
+
+.news {
+  margin-top: 10px;
+  /*border: 2px solid blue;*/
+}
